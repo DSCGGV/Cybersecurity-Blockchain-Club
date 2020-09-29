@@ -1,25 +1,10 @@
-# Competitive-Programming-Club
+# Cybesecurity-Blockchain-Club
 
 ## About
-The CP Club is a technical organization of students in the campus of [Guru Ghasidas Vishwavidyalaya](http://www.ggu.ac.in/), that works under the parent community namely
-[Developer Student Clubs](https://dsc.community.dev/guru-ghasidas-vishwavidyalaya/)
+The Cybersecurity & Blockchain Club is a technical organization of students in the campus of [Guru Ghasidas Vishwavidyalaya](http://www.ggu.ac.in/), that works under the parent community namely [Developer Student Clubs](https://dsc.community.dev/guru-ghasidas-vishwavidyalaya/)
 
 ## Vision
-The Competitive Programming Club is a group of students who enjoy solving hard problems quickly with code. 
-The aim will be to meet on a regular basis to practice and learn together. The problems we will work on will also be highly applicable to technical job interviews. 
-The club’s objective is not teaching members how to code, but it is to help members to code efficiently and to teach them algorithms that can be used to achieve that goal.
-
-## Our Resources
-We will be using standard resources for doing CP problems and making regular contests, some of which are given below,
-* [Google CP Archive](https://codingcompetitions.withgoogle.com/kickstart/archive)
-* [HackerRank](https://www.hackerrank.com/)
-* [HackerEarth](https://www.hackerearth.com/)
-* [CodeChef](https://www.codechef.com/)
-* [CodeForces](https://codeforces.com/)
-* [CodeAbbey](https://www.codeabbey.com/)
-* [Sphere Online Judge](https://www.spoj.com/)
-* [URI Online Judge](https://www.urionlinejudge.com.br/)
-* [ICPC Archive](https://icpc.global/compete/problems)
+Cybersecurity is the state or process of protecting and recovering computer systems, networks, devices, and programs from any type of cyber attack, whereas Blockchain is a Bitcoin block explorer service, as well as a cryptocurrency wallet and a cryptocurrency exchange supporting Bitcoin, and Bitcoin Cash. This club aims at providing a guideline along with the related courses, hands on sessions, hacker boot camps in order to enhance the capability of Cyber Security enthusiasts inside the team.
 
 ## Our upcoming events
 Hey Guys ❤, we are going to conduct the [Hacktober Fest-2020](https://hacktoberfest.digitalocean.com/). The entire contribution guidelines can be found here - [Hacktober fest contributions](https://github.com/Developer-Student-Clubs-GGV/Competitive-Programming-Club-Projects/blob/master/Hacktober%20Fest%202020/CONTRIBUTIONS.md)
