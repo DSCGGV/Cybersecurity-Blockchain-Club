@@ -69,7 +69,20 @@ Incase you face any problem with your contributions, you may reach out to the fo
       DSC Lead
     </td>
   </tr>
-
+  <tr>
+  <td>
+    <img src ="https://avatars2.githubusercontent.com/u/63818498?s=460&u=7981d94d6a764417b180bd999b2468d844423760&v=4" height="100""
+  </td>
+  <td>
+   <a href="https://github.com/deepeshgarg09">deepeshgarg09</a>
+  </td>
+    <td>
+      <a href="https://www.linkedin.com/in/deepeshgarg09">Deepesh Garg</a>
+  </td>
+      <td>
+    Co - Lead
+  </td>
+</tr>
 <tr>
 <td>
   <img src ="https://media-exp1.licdn.com/dms/image/C5603AQG-v3mUb5PwKg/profile-displayphoto-shrink_400_400/0?e=1609372800&v=beta&t=J81AV28j6DlSEjPCFXxTziLHIKg88K1rXZLSCRjvjdM" height="100""
@@ -98,21 +111,6 @@ Incase you face any problem with your contributions, you may reach out to the fo
   Women Tech Lead
 </td>
 </tr>
-<tr>
-<td>
-  <img src ="https://avatars2.githubusercontent.com/u/63818498?s=460&u=7981d94d6a764417b180bd999b2468d844423760&v=4" height="100""
-</td>
-<td>
- <a href="https://github.com/deepeshgarg09">deepeshgarg09</a>
-</td>
-  <td>
-    <a href="https://www.linkedin.com/in/deepeshgarg09">Deepesh Garg</a>
-</td>
-    <td>
-  Co - Lead
-</td>
-</tr>
-
     <tr>
     <td>
       <img src ="https://media-exp1.licdn.com/dms/image/C4D03AQFqEJSK9u-HNQ/profile-displayphoto-shrink_400_400/0?e=1606953600&v=beta&t=toBo0MrbtV7vQekhxr-NO27-HvXrUu0FCcR5WcWuZww" height="100""
